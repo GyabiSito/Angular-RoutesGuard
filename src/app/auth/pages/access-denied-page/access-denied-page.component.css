@@ -1,0 +1,16 @@
+.access-denied {
+    background-color: #e94f37;
+    height: 100vh;
+    position: relative;
+  }
+  
+  h1 {
+    color: #d7dae5;
+    margin: 0;
+    position: absolute;
+    font-size: 5rem;
+    font-weight: 300;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

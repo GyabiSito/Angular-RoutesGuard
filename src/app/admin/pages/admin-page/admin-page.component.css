@@ -1,0 +1,16 @@
+.admin {
+    background-color: #8de969;
+    height: 100vh;
+    position: relative;
+}
+
+h1 {
+    color: #3d5a6c;
+    margin: 0;
+    position: absolute;
+    font-size: 5rem;
+    font-weight: 300;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
